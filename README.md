@@ -100,6 +100,6 @@ psql -d your_database_name -f walmart_analysis.sql
 
 ## 👤 Author
 
-**[Your Name]**  
+**Dhanraj Tentu**  
 Aspiring Data Analyst  
-[LinkedIn Profile] | [GitHub Profile]
+[[LinkedIn Profile](https://www.linkedin.com/in/dhanraj-tentu/)] 
